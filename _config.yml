@@ -115,7 +115,7 @@ author:
     #  url: "victorarranzbarcenilla@gmail.com" # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      utl: "victorarranz.github.io" # url: "https://your-website.com"
+      url: "victorarranz.github.io" # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
