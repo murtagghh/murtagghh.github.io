@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "Computer Engineering & Statistics" # site tagline that appears below site title in masthead
 name                     : "Víctor Arranz Barcenilla"
 description              : "My personal website for portfolio and more"
-url                      : "https://murtagghh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://vicarbar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -115,7 +115,7 @@ author:
     #  url: "victorarranzbarcenilla@gmail.com" # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "victorarranz.github.io" # url: "https://your-website.com"
+      url: "vicarbar.github.io" # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/murtagghh" # url: "https://github.com/"
+      url: "https://github.com/vicarbar" # url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/victor-arranz-barcenilla-956002151
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/murtagghh"
+      url: "https://github.com/vicarbar"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
