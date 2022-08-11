@@ -125,9 +125,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/murtagghh" # url: "https://github.com/"
-    #- label: "LinkedIn"
-    #  icon: "fab fa-fw fa-linkedin-in"
-    #  url: "https://linkedin.com/in/victor-arranz-barcenilla-956002151
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://linkedin.com/in/victor-arranz-barcenilla-956002151
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
