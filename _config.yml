@@ -108,51 +108,54 @@ author:
   avatar           : "/assets/images/foto.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a young computer engineer and statistician, passionate about data science, data analysis, machine learning and software development. Always willing to learn new things!"
   location         : "Palencia, Castilla y León, Spain"
-  email            : "victorarranzbarcenilla@gmail.com"
+  #email            : "victorarranzbarcenilla@gmail.com"
   links:
-    # - label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-    #  url: "victorarranzbarcenilla@gmail.com" # url: "mailto:your.name@email.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "victorarranzbarcenilla@gmail.com" # url: "mailto:your.name@email.com"
     # - label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "vicarbar.github.io" # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    #- label: "Twitter"
+    # icon: "fab fa-fw fa-twitter-square"
+    # url: "https://twitter.com/"
+    #- label: "Facebook"
+    # icon: "fab fa-fw fa-facebook-square"
+    # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vicarbar" # url: "https://github.com/"
-    - label: "linkedin"
-      icon: "fab fa-brands fa-linkedin"
-      url: "https://linkedin.com/in/victor-arranz-barcenilla-956002151
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/victor-arranz-barcenilla-956002151"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    # url:
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
+    # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/victor-arranz-barcenilla-956002151"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vicarbar"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    #- label: "GitLab"
+    # icon: "fab fa-fw fa-gitlab"
+    # url:
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
+    # url:
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    # url:
 
 
 # Reading Files
