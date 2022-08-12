@@ -1,12 +1,12 @@
 # main links
   main:
   - title: "About Me"
-    url: https://vicarbar.github.io/AboutMe/
+    url: /AboutMe/
   - title: "Resume"
-    url: https://vicarbar.github.io/assets/docs/cvVictorArranzBarcenilla.pdf
+    url: /assets/docs/cvVictorArranzBarcenilla.pdf
   - title: "Portfolio"
-    url: https://vicarbar.github.io/Portfolio/"
+    url: /portfolio/
   - title: "Certificates"
-    url: https://vicarbar.github.io/Certificates/
+    url: /Certificates/
   #- title: "Posts"
   #  url: /year-archive/
