@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Hello, world!"
+tags: ["About me", "Computer Engineering", "Statistics"]
 #subtitle: 
 #date:
 #background
