@@ -14,5 +14,7 @@ Hi! In this entry I want to share a little project I did with the visualization 
   <li>Correlation: shows some graphs with the correlation between the total time sleeping and the time of deep sleep  in order to explore if there is a direct relationship between the duration of sleep and the quality of rest.</li>
 </ol>
 
-It's easy to draw conclussions just playing a bit with the app and, before you say anything, the first half of this year is the period in which I have been finishing my studies, including the two final degree projects, so don't judge my lack of sleep please &#128512;.
+It's easy to draw conclussions just playing a bit with the app and, before you say anything, the first half of this year is the period in which I have been finishing my studies, including the two final degree projects, so don't judge my lack of sleep please &#128512;. 
+
+<a href="https://murtagghh.shinyapps.io/sleep_app/">See the app </a>
 
